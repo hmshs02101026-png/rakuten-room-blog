@@ -37,12 +37,12 @@ export default function Footer() {
               暮らし・子育て・キッチン・収納など日々の生活をちょっと豊かにするものを集めています。
             </p>
             <div className="flex items-center gap-4 mt-5">
-              <a href="https://www.threads.net/" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.threads.com/@batako___mama" target="_blank" rel="noopener noreferrer"
                 className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
                 Threads
               </a>
               <span className="text-site-rule">|</span>
-              <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.instagram.com/batako___mama" target="_blank" rel="noopener noreferrer"
                 className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
                 Instagram
               </a>
@@ -85,7 +85,7 @@ export default function Footer() {
             </ul>
 
             <a
-              href="https://room.rakuten.co.jp/"
+              href="https://room.rakuten.co.jp/battabata_mama/items"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-center text-[10px] tracking-[0.2em] uppercase text-site-ink border border-site-rule py-3 hover:bg-site-ink hover:text-white hover:border-site-ink transition-all duration-300"

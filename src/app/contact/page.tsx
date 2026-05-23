@@ -88,7 +88,7 @@ export default function ContactPage() {
           <p className="section-label mb-6">SNSからも</p>
           <div className="flex gap-4">
             <a
-              href="https://www.threads.net/"
+              href="https://www.threads.com/@batako___mama"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 text-center py-3 border border-site-rule text-[10px] tracking-[0.18em] text-site-muted hover:border-site-accent hover:text-site-accent transition-colors"
@@ -96,7 +96,7 @@ export default function ContactPage() {
               Threads
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/batako___mama"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 text-center py-3 border border-site-rule text-[10px] tracking-[0.18em] text-site-muted hover:border-site-accent hover:text-site-accent transition-colors"

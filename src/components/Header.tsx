@@ -22,7 +22,7 @@ export default function Header() {
         <p className="text-[10px] tracking-[0.18em] text-site-muted">
           楽天ROOMで紹介アイテムをチェック →&nbsp;
           <a
-            href="https://room.rakuten.co.jp/"
+            href="https://room.rakuten.co.jp/battabata_mama/items"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-2 hover:text-site-accent transition-colors"

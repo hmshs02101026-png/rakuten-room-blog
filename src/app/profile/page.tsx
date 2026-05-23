@@ -25,12 +25,12 @@ export default function ProfilePage() {
           <p className="font-serif text-[18px] text-site-ink mb-1">ひだまり</p>
           <p className="text-[9px] tracking-[0.3em] text-site-accent uppercase mb-5">hidamari</p>
           <div className="flex items-center justify-center gap-5">
-            <a href="https://www.threads.net/" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.threads.com/@batako___mama" target="_blank" rel="noopener noreferrer"
               className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
               Threads
             </a>
             <span className="text-site-rule">|</span>
-            <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.instagram.com/batako___mama" target="_blank" rel="noopener noreferrer"
               className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
               Instagram
             </a>
@@ -78,7 +78,7 @@ export default function ProfilePage() {
             ブログで紹介したアイテムを<br />まとめてチェックできます
           </p>
           <a
-            href="https://room.rakuten.co.jp/"
+            href="https://room.rakuten.co.jp/battabata_mama/items"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-[10px] tracking-[0.28em] uppercase text-site-ink border border-site-ink/25 px-10 py-3 hover:bg-site-ink hover:text-white transition-all duration-300"

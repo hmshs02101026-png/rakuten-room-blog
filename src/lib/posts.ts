@@ -58,7 +58,7 @@ export const posts: Post[] = [
     publishedAt: '2024-05-10',
     updatedAt: '2024-05-10',
     coverImage: 'https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=800&q=80',
-    rakutenRoomUrl: 'https://room.rakuten.co.jp/',
+    rakutenRoomUrl: 'https://room.rakuten.co.jp/battabata_mama/items',
     readingTime: 4,
   },
   {
@@ -110,7 +110,7 @@ export const posts: Post[] = [
     publishedAt: '2024-05-12',
     updatedAt: '2024-05-12',
     coverImage: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-    rakutenRoomUrl: 'https://room.rakuten.co.jp/',
+    rakutenRoomUrl: 'https://room.rakuten.co.jp/battabata_mama/items',
     readingTime: 3,
   },
   {
@@ -164,7 +164,7 @@ export const posts: Post[] = [
     publishedAt: '2024-05-15',
     updatedAt: '2024-05-15',
     coverImage: 'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&q=80',
-    rakutenRoomUrl: 'https://room.rakuten.co.jp/',
+    rakutenRoomUrl: 'https://room.rakuten.co.jp/battabata_mama/items',
     readingTime: 4,
   },
   {
@@ -218,7 +218,7 @@ export const posts: Post[] = [
     publishedAt: '2024-05-18',
     updatedAt: '2024-05-18',
     coverImage: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80',
-    rakutenRoomUrl: 'https://room.rakuten.co.jp/',
+    rakutenRoomUrl: 'https://room.rakuten.co.jp/battabata_mama/items',
     readingTime: 3,
   },
   {
@@ -276,7 +276,7 @@ export const posts: Post[] = [
     publishedAt: '2024-05-20',
     updatedAt: '2024-05-20',
     coverImage: 'https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=800&q=80',
-    rakutenRoomUrl: 'https://room.rakuten.co.jp/',
+    rakutenRoomUrl: 'https://room.rakuten.co.jp/battabata_mama/items',
     readingTime: 4,
   },
 ]

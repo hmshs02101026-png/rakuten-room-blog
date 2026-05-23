@@ -21,12 +21,12 @@ export default function Sidebar() {
           2児のママ。北欧インテリアと暮らしのグッズが好き。楽天ROOMで実際に使ってよかったものを紹介中。
         </p>
         <div className="flex items-center justify-center gap-4 mt-4">
-          <a href="https://www.threads.net/" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.threads.com/@batako___mama" target="_blank" rel="noopener noreferrer"
             className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
             Threads
           </a>
           <span className="text-site-rule text-xs">|</span>
-          <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.instagram.com/batako___mama" target="_blank" rel="noopener noreferrer"
             className="text-[10px] tracking-wider text-site-faint hover:text-site-accent transition-colors">
             Instagram
           </a>
@@ -95,7 +95,7 @@ export default function Sidebar() {
           紹介したアイテムをまとめてチェックできます
         </p>
         <a
-          href="https://room.rakuten.co.jp/"
+          href="https://room.rakuten.co.jp/battabata_mama/items"
           target="_blank"
           rel="noopener noreferrer"
           className="block text-[10px] tracking-[0.22em] uppercase text-site-ink border border-site-ink/25 py-2.5 hover:bg-site-ink hover:text-white hover:border-site-ink transition-all duration-300"

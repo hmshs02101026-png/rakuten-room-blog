@@ -30,7 +30,7 @@ export default function RoomPage() {
             実際に買って良かったものだけを<br />カテゴリー別にまとめています
           </p>
           <a
-            href="https://room.rakuten.co.jp/"
+            href="https://room.rakuten.co.jp/battabata_mama/items"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-[10px] tracking-[0.28em] uppercase text-site-ink border border-site-ink/25 px-12 py-3.5 hover:bg-site-ink hover:text-white transition-all duration-300"

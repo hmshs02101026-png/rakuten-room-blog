@@ -46,7 +46,7 @@ export default function HomePage() {
                 楽天ROOMで紹介中。
               </p>
               <a
-                href="https://room.rakuten.co.jp/"
+                href="https://room.rakuten.co.jp/battabata_mama/items"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[10px] tracking-[0.28em] uppercase text-site-ink border border-site-ink/25 px-8 py-2.5 hover:bg-site-ink hover:text-white transition-all duration-300"
@@ -173,7 +173,7 @@ export default function HomePage() {
             気になったものはここからチェックしてください。
           </p>
           <a
-            href="https://room.rakuten.co.jp/"
+            href="https://room.rakuten.co.jp/battabata_mama/items"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-[10px] tracking-[0.28em] uppercase text-site-ink border border-site-ink/25 px-10 py-3 hover:bg-site-ink hover:text-white transition-all duration-300"

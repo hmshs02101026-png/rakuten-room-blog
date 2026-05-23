@@ -3,7 +3,7 @@ type Props = {
   label?: string
 }
 
-export default function RakutenCTA({ url = 'https://room.rakuten.co.jp/', label }: Props) {
+export default function RakutenCTA({ url = 'https://room.rakuten.co.jp/battabata_mama/items', label }: Props) {
   return (
     <div className="border border-site-rule p-8 text-center my-10">
       <p className="section-label mb-3">楽天ROOM</p>
