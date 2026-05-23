@@ -40,6 +40,9 @@ export const metadata: Metadata = {
       '子育てママ目線で選んだ、暮らしが豊かになる楽天アイテムをご紹介。',
     images: ['/og-image.png'],
   },
+  verification: {
+    google: 'ky2FpMuEEfdIH4Zb05aOATjpFsZNbQoDmeT0sKxpZXs',
+  },
   robots: {
     index: true,
     follow: true,
