@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&family=Shippori+Mincho:wght@400;500;600&family=Cormorant+Garamond:ital,wght@1,400;1,600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background-color: #faf7f3;
+    color: #5f514b;
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .section-label {
+    @apply text-[10px] tracking-[0.3em] uppercase text-site-accent font-sans font-normal;
+  }
+  .thin-rule {
+    @apply w-10 h-px bg-site-accent/40 mx-auto;
+  }
+
+  /* ── 記事本文 ── */
+  .prose-blog h2 {
+    font-family: 'Shippori Mincho', serif;
+    @apply text-lg font-medium mt-10 mb-4 text-site-ink border-b border-site-rule pb-2;
+  }
+  .prose-blog h3 {
+    font-family: 'Shippori Mincho', serif;
+    @apply text-base font-medium mt-8 mb-3 text-site-ink;
+  }
+  .prose-blog p {
+    @apply text-[14px] leading-[2.1] mb-5 text-site-ink font-light;
+  }
+  .prose-blog ul {
+    @apply list-disc list-inside mb-5 space-y-1.5 text-[14px] text-site-ink font-light leading-[2];
+  }
+  .prose-blog ol {
+    @apply list-decimal list-inside mb-5 space-y-1.5 text-[14px] text-site-ink font-light leading-[2];
+  }
+  .prose-blog hr {
+    @apply my-10 border-site-rule;
+  }
+  .prose-blog strong {
+    @apply font-medium text-site-ink;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
