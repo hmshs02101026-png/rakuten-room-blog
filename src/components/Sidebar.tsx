@@ -18,7 +18,7 @@ export default function Sidebar() {
         <p className="text-center font-serif text-[15px] text-site-ink mb-0.5">ひだまり</p>
         <p className="text-center text-[9px] tracking-[0.2em] text-site-accent uppercase mb-4">hidamari</p>
         <p className="text-[11px] text-site-muted leading-[1.9] font-light text-center">
-          2児のママ。北欧インテリアと暮らしのグッズが好き。楽天ROOMで実際に使ってよかったものを紹介中。
+          3児のママ。北欧インテリアと暮らしのグッズが好き。
         </p>
         <div className="flex items-center justify-center gap-4 mt-4">
           <a href="https://www.threads.com/@batako___mama" target="_blank" rel="noopener noreferrer"

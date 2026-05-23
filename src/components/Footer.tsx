@@ -5,7 +5,6 @@ const links = [
   { href: '/blog',    label: 'Blog' },
   { href: '/room',    label: '楽天ROOM' },
   { href: '/profile', label: 'Profile' },
-  { href: '/contact', label: 'Contact' },
 ]
 
 export default function Footer() {
@@ -33,7 +32,7 @@ export default function Footer() {
           <div>
             <p className="section-label mb-5">About</p>
             <p className="text-[12px] text-site-muted leading-[2] font-light">
-              2児のママ目線で選んだ、楽天のお気に入りアイテムを紹介するブログです。
+              3児のママ目線で選んだ、楽天のお気に入りアイテムを紹介するブログです。
               暮らし・子育て・キッチン・収納など日々の生活をちょっと豊かにするものを集めています。
             </p>
             <div className="flex items-center gap-4 mt-5">

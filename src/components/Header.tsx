@@ -8,7 +8,6 @@ const navItems = [
   { href: '/blog',    label: 'BLOG'    },
   { href: '/room',    label: 'ROOM'    },
   { href: '/profile', label: 'PROFILE' },
-  { href: '/contact', label: 'CONTACT' },
 ]
 
 export default function Header() {
